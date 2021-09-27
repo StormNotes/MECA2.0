@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StormNotes/MECA2.0/static/css/main.508dde15.chunk.css",
+    "main.js": "/StormNotes/MECA2.0/static/js/main.3ff0e06c.chunk.js",
+    "main.js.map": "/StormNotes/MECA2.0/static/js/main.3ff0e06c.chunk.js.map",
+    "runtime-main.js": "/StormNotes/MECA2.0/static/js/runtime-main.69537992.js",
+    "runtime-main.js.map": "/StormNotes/MECA2.0/static/js/runtime-main.69537992.js.map",
+    "static/js/2.9532c05d.chunk.js": "/StormNotes/MECA2.0/static/js/2.9532c05d.chunk.js",
+    "static/js/2.9532c05d.chunk.js.map": "/StormNotes/MECA2.0/static/js/2.9532c05d.chunk.js.map",
+    "static/js/3.90e9baf4.chunk.js": "/StormNotes/MECA2.0/static/js/3.90e9baf4.chunk.js",
+    "static/js/3.90e9baf4.chunk.js.map": "/StormNotes/MECA2.0/static/js/3.90e9baf4.chunk.js.map",
+    "index.html": "/StormNotes/MECA2.0/index.html",
+    "static/css/main.508dde15.chunk.css.map": "/StormNotes/MECA2.0/static/css/main.508dde15.chunk.css.map",
+    "static/js/2.9532c05d.chunk.js.LICENSE.txt": "/StormNotes/MECA2.0/static/js/2.9532c05d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69537992.js",
+    "static/js/2.9532c05d.chunk.js",
+    "static/css/main.508dde15.chunk.css",
+    "static/js/main.3ff0e06c.chunk.js"
+  ]
+}
